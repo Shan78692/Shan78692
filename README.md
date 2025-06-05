@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Shahnawaz Mansoori
 
+**Web Application (Django) | Python Developer | 2+ Years Experience**
+
+📧 **Email:** msmansoori9292@gmail.com  
+📱 **Mobile:** +91-7869737785
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shahnawaz-mansoori-a236b9255/)
 
 ---
@@ -42,6 +47,6 @@ I'm a passionate **Python Developer** specializing in web development. With hand
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/shahnawaz-mansoori-a236b9255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shahnawaz-mansoori-a236b9255/)
 
 ---

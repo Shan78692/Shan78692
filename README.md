@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahnawaz Mansoori
 
-<!--
-**Shan78692/Shan78692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shahnawaz-mansoori-a236b9255/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a passionate **Python Developer** specializing in web development. With hands-on experience in building scalable and robust backend systems using **Python**, **Django**, and a modern frontend stack (**HTML**, **CSS**, **JavaScript**), I love contributing to projects that solve real-world problems and enhance user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python 3, HTML, CSS 
+- **Frameworks:** Django, Flask  
+- **Tools:** GitHub, VSCode, Jira
+- **Cloud & Infra:** AWS EC2, S3
+- **Database:** SQLite, MySQL, PostgreSQL
+
+---
+
+## 🚀 Favorite Project
+
+### [ApnaPG](https://apnapg.in/)
+
+**Technologies:** Python 3, Django, HTML, CSS
+
+**Key Contributions:**
+- Developed scalable backend services, ensuring seamless user experiences for students and professionals seeking verified PG options.
+- Implemented features such as real-time search filters, secure booking systems, and user-friendly interfaces to enhance platform usability.
+
+---
+
+## 🌱 Interests
+
+- Web Development  
+- Building user-centric platforms  
+- Exploring new technologies around Python and Django
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shahnawaz-mansoori-a236b9255/)
+
+---
